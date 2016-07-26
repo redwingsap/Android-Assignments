@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Menus">
+
+    <item android:id="@+id/menu_bookmark"
+        android:title="Bookmark" />
+    <item android:id="@+id/menu_file"
+        android:title="Files" />
+    <item android:id="@+id/menu_save"
+        android:title="Save" />
+</menu>
